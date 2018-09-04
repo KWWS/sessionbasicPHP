@@ -2,7 +2,6 @@
 <fieldset id="fie">
 <legend>LOGIN</legend><br />
 <label>NOME : </label>
-<!--o campo “name” dentro do input e importante, pois será ele que armazenará os dados digitados . -->
 <input type="text" name="login" id="login"  /><br />
 <label>SENHA :</label>
 <input type="password" name="senha" id="senha" /><br />
